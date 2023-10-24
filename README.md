@@ -23,13 +23,13 @@ To run this project, you need to have the following software installed on your m
 
 2. Install and run Backend Server
 
-    *cd backend
-    *npm install
-    *npm run start
+    * cd backend
+    * npm install
+    * npm run start
 
 
 3. Install and run Frontend Server
 
-    *cd frontend
-    *npm install
-    *npm run start
+    * cd frontend
+    * npm install
+    * npm run start
